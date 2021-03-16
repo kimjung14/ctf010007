@@ -1,2 +1,2 @@
-# ctf010007
+# ctf010007Java
 CTF lab
